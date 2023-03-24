@@ -3,7 +3,7 @@ title: Keuzehulp helpt roker aan geschikte stopmethode
 publication_types:
   - "2"
 authors:
-  - Thomas Gültzow
+  - admin
   - Eline Suzanne Smit
   - Carmen D. Dirksen
   - Ciska Hoving
