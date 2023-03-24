@@ -1,6 +1,6 @@
 ---
-title: "Integrating behaviour change interventions and patient decision aids:
-  How to accomplish synergistic effects?"
+title: Integrating behaviour change interventions and patient decision aids
+subtitle: How to accomplish synergistic effects?
 publication_types:
   - "2"
 authors:
