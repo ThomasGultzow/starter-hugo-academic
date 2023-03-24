@@ -1,6 +1,6 @@
 ---
-title: "Between Healthcare Practitioners and Clergy: Evangelicals and COVID-19
-  Vaccine Hesitancy"
+title: Between Healthcare Practitioners and Clergy
+subtitle: Evangelicals and COVID-19 Vaccine Hesitancy
 publication_types:
   - "2"
 authors:
@@ -13,7 +13,7 @@ authors:
   - Michael Stevens
   - Bernard F. Fuemmeler
   - Candace W. Burton
-  - Thomas Gültzow
+  - admin
   - Kellie E. Carlyle
 doi: https://doi.org/10.3390/ijerph191711120
 publication: International Journal of Environmental Research and Public Health
