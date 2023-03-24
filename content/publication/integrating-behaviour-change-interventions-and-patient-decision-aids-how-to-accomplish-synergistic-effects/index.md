@@ -42,5 +42,14 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: "People make numerous health-related choices each day: For example,
+  deciding to brush one's teeth or to eat well and healthy – or not to do these
+  activities. To support complex decisions and subsequent behaviour change, both
+  Behaviour Change Interventions (BCIs) and Patient Decision Aids (PtDAs) have
+  been developed and evolved independently to support people in health-related
+  decision making. In this paper, we critically review BCIs and PtDAs, examine
+  their similarities and differences, and identify potential for integration of
+  expertise to increase the benefits for people engaging with healthcare and
+  health behaviours."
 date: 2021-12-01T17:34:43.261Z
 ---
