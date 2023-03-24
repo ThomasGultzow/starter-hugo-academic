@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Haoyi Wang
   - Kennedy J. I. D’abreu de Paulo
-  - Thomas Gültzow
+  - admin
   - Hanne M. L. Zimmermann
   - Kai J. Jonas
 doi: "https://doi.org/10.3390/tropicalmed7100293 "
