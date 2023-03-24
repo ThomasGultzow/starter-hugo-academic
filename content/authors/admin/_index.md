@@ -22,7 +22,7 @@ organizations:
     url: www.maastrichtuniversity.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on applying informed decision making to health behaviors (e.g., sexual and mental health) and behaviors related to sociatal issues (e.g., climate change and mental health in the university setting).
+bio: My research focuses on applying informed decision making to health behaviors (e.g., sexual and mental health) and behaviors related to societal issues (e.g., climate change and mental health in the university setting).
 
 # Interests to show in About widget
 interests:
