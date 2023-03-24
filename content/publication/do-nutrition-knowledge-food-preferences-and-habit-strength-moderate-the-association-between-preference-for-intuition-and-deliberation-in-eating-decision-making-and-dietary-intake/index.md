@@ -5,11 +5,10 @@ title: Do nutrition knowledge, food preferences, and habit strength moderate the
 publication_types:
   - "2"
 authors:
-  - Sproesser
-  - Gudrun;Aulbach
-  - Matthias;Gültzow
-  - Thomas;König
-  - Laura
+  - Gudrun Sproesser
+  - Matthias Aulbach
+  - Thomas Gültzow
+  - Laura M. König
 doi: "https://doi.org/10.1111/aphw.12419  "
 publication: "Applied Psychology: Health and Well-Being"
 abstract: An intuitive style in eating decision-making, for example, basing
