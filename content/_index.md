@@ -42,7 +42,7 @@ sections:
           location: Germany
           date_start: '2010-10-01'
           date_end: '2017-09-30'
-          description: Includes vocational training.
+          description: Includes vocational training
     design:
       columns: '2'
   - block: collection
