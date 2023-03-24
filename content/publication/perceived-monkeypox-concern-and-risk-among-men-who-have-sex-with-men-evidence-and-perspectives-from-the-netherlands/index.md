@@ -1,6 +1,6 @@
 ---
-title: "Perceived Monkeypox Concern and Risk among Men Who Have Sex with Men:
-  Evidence and Perspectives from The Netherlands"
+title: Perceived Monkeypox Concern and Risk among Men Who Have Sex with Men
+subtitle: Evidence and Perspectives from The Netherlands
 publication_types:
   - "2"
 authors:
