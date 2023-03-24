@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Gudrun Sproesser
   - Matthias Aulbach
-  - Thomas Gültzow
+  - admin
   - Laura M. König
 doi: "https://doi.org/10.1111/aphw.12419  "
 publication: "Applied Psychology: Health and Well-Being"
