@@ -12,6 +12,7 @@ authors:
   - Ciska Hoving
   - Carmen D. Dirksen
 doi: https://doi.org/10.2196/34246
+publication: Journal of Medical Internet Research
 abstract: >-
   Background:
 
