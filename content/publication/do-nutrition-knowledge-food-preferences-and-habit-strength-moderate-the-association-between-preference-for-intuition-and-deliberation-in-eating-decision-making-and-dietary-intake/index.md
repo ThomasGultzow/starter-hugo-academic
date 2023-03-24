@@ -6,13 +6,10 @@ publication_types:
   - "2"
 authors:
   - Sproesser
-  - G.
-  - Aulbach
-  - M.
-  - Gültzow
-  - T.
-  - "& König"
-  - L. M.
+  - Gudrun;Aulbach
+  - Matthias;Gültzow
+  - Thomas;König
+  - Laura
 doi: "https://doi.org/10.1111/aphw.12419  "
 publication: "Applied Psychology: Health and Well-Being"
 abstract: An intuitive style in eating decision-making, for example, basing
