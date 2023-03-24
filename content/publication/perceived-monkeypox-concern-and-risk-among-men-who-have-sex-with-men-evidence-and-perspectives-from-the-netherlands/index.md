@@ -8,7 +8,7 @@ authors:
   - Kennedy J. I. D’abreu de Paulo
   - Thomas Gültzow
   - Hanne M. L. Zimmermann
-  - Kai J Jonas
+  - Kai J. Jonas
 doi: "https://doi.org/10.3390/tropicalmed7100293 "
 publication: Tropical Medicine and Infectious Disease
 publication_short: ""
