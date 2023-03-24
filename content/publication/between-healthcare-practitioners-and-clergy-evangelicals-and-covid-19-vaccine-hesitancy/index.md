@@ -16,6 +16,7 @@ authors:
   - Thomas Gültzow
   - Kellie E. Carlyle
 doi: https://doi.org/10.3390/ijerph191711120
+publication: International Journal of Environmental Research and Public Health
 abstract: Evangelical Christians are among the most hesitant to get the COVID-19
   vaccine. This study examined the extent to which COVID-19 vaccination uptake
   among Evangelicals is explained by demographic characteristics, Health Belief
