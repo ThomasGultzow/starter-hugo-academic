@@ -6,7 +6,7 @@ subtitle: An explorative study
 publication_types:
   - "2"
 authors:
-  - adim
+  - admin
   - Eline Suzanne Smit
   - Raesita Hudales
   - Carmen D. Dirksen
