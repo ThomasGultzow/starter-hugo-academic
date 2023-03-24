@@ -15,6 +15,7 @@ tags:
   - Smoking
   - Decision-Making
   - Decision-aid
+  - digital-health
 image:
   filename: ""
   focal_point: Smart
