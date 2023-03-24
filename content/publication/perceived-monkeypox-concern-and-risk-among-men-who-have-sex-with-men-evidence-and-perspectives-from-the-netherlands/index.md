@@ -4,16 +4,11 @@ title: "Perceived Monkeypox Concern and Risk among Men Who Have Sex with Men:
 publication_types:
   - "2"
 authors:
-  - Wang
-  - H.
-  - de Paulo
-  - K. J. D. A.
-  - Gültzow
-  - T.
-  - Zimmermann
-  - H. M.
-  - "& Jonas"
-  - K. J.
+  - Haoyi Wang
+  - Kennedy J. I. D’abreu de Paulo
+  - Thomas Gültzow
+  - Hanne M. L. Zimmermann
+  - Kai J Jonas
 doi: "https://doi.org/10.3390/tropicalmed7100293 "
 publication: Tropical Medicine and Infectious Disease
 publication_short: ""
@@ -63,5 +58,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-03-24T17:03:51.121Z
+date: 2022-10-10T16:03:51.121Z
 ---
