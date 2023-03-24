@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Haoyi Wang
   - Kennedy J. I. D’abreu de Paulo
-  - Thomas Gültzow
+  - admin
   - Hanne M. L. Zimmermann
   - Kai J. Jonas
 doi: "https://doi.org/10.2807/1560-7917.ES.2022.27.33.2200603  "
