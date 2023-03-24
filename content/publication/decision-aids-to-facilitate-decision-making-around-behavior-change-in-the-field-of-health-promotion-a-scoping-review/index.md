@@ -1,10 +1,11 @@
 ---
-title: "Decision aids to facilitate decision making around behavior change in
-  the field of health promotion: A scoping review"
+title: Decision aids to facilitate decision making around behavior change in the
+  field of health promotion
+subtitle: A scoping review
 publication_types:
   - "2"
 authors:
-  - Thomas Gültzow
+  - admin
   - Daniëlle N. Zijlstra
   - Catherine Bolman
   - Hein de Vries
