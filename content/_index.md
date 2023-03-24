@@ -76,12 +76,4 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      # Contact (add or remove contact options as necessary)
-      email: thomas.gultzow@maastrichtuniversity.nl
-    design:
-      columns: '2'
 ---
