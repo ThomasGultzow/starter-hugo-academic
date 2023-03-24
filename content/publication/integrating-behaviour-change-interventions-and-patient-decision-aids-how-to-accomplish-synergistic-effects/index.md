@@ -4,7 +4,7 @@ title: "Integrating behaviour change interventions and patient decision aids:
 publication_types:
   - "2"
 authors:
-  - Thomas Gültzow
+  - admin
   - Ciska Hoving
   - Eline Suzanne Smit
   - Hilary L. Bekker
