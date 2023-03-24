@@ -3,7 +3,7 @@ title: Nieuw onderzoek naar keuzehulp bij stoppen-met-roken
 publication_types:
   - "2"
 authors:
-  - Thomas Gültzow
+  - admin
   - Ciska Hoving
 doi: "https://doi.org/10.1007/s12445-020-0962-5 "
 publication: Huisarts En Wetenschap
