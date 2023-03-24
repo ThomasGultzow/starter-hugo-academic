@@ -1,7 +1,7 @@
 ---
-title: "Hereditary diseases and child wish: Exploring motives, considerations,
-  and the (joint) decision-making process of genetically at-risk couples"
-subtitle: ""
+title: Hereditary diseases and child wish
+subtitle: Exploring motives, considerations, and the (joint) decision-making
+  process of genetically at-risk couples
 publication_types:
   - "2"
 authors:
