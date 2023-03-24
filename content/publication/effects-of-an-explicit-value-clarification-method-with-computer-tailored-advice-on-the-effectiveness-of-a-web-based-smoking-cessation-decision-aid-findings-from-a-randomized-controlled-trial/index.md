@@ -1,11 +1,11 @@
 ---
-title: "Effects of an Explicit Value Clarification Method With Computer-Tailored
-  Advice on the Effectiveness of a Web-Based Smoking Cessation Decision Aid:
-  Findings From a Randomized Controlled Trial"
+title: Effects of an Explicit Value Clarification Method With Computer-Tailored
+  Advice on the Effectiveness of a Web-Based Smoking Cessation Decision Aid
+subtitle: Findings From a Randomized Controlled Trial
 publication_types:
   - "2"
 authors:
-  - Thomas Gültzow
+  - admin
   - Eline Suzanne Smit
   - Rik Crutzen
   - Shahab Jolani
@@ -57,5 +57,11 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: Currently, we cannot confidently recommend the inclusion of explicit
+  value clarification methods and computer-tailored advice within digital
+  decision aids. However, they might result in higher nonuse attrition rates,
+  thereby limiting their potential. As a lack of statistical power may have
+  influenced the outcomes, we recommend replicating this study with some
+  adaptations based on the lessons learned.
 date: 2022-07-15T16:22:31.846Z
 ---
