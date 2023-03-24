@@ -1,12 +1,12 @@
 ---
-title: "Informed Decision Making on the Uptake of Evidence-Based Smoking
-  Cessation Assistance by Individuals Motivated to Quit Smoking: A Needs
-  Assessment Among Potential End Users and Experts to Inform Decision Aid
-  Development"
+title: Informed Decision Making on the Uptake of Evidence-Based Smoking
+  Cessation Assistance by Individuals Motivated to Quit Smoking
+subtitle: A Needs Assessment Among Potential End Users and Experts to Inform
+  Decision Aid Development
 publication_types:
   - "2"
 authors:
-  - Thomas Gültzow
+  - admin
   - Eline Suzanne Smit
   - Raesita Hudales
   - Carmen D. Dirksen
