@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Yil Severijns
   - Christine E. M. de Die-Smulders
-  - Thomas Gültzow
+  - admin
   - Hein de Vries
   - Liesbeth A.D.M. van Osch
 doi: https://doi.org/10.1007/s12687-021-00510-x
