@@ -50,5 +50,5 @@ first_name: Thomas
 
 I am a social scientist focusing on applying informed decision making to health behaviors (e.g., sexual and mental health) and behaviors related to societal issues (e.g., climate change). My research mainly focuses on understanding how informed decision making relates to behavior (change) and optimizing digital decision aids. In addition, I also research how online and offline communication can influence (informed) decision-making processes and behavior and I have expertise in developing digital decision aids. With my research I try to help people when it comes to issues related to their health, but also other societal issues.
 
-I am also currently the co-chair of the [Digital Health & Computer-Tailoring (SIG)](https://twitter.com/EHPSDigiHealth) of the [European Health Psychology Society (EHPS)](https://ehps.net/).
+I am also currently the co-chair of the [Digital Health & Computer-Tailoring (SIG)](https://twitter.com/EHPSDigiHealth)👨‍💻 of the [European Health Psychology Society (EHPS)](https://ehps.net/).
 {style="text-align: justify;"}
