@@ -22,9 +22,11 @@ abstract: Monkeypox is a zoonotic disease and leads to a smallpox-like disease
 draft: false
 featured: true
 tags:
-  - mpox
-  - psychosocial-determinants
-  - sexual-health
+  - Mpox
+  - Behavioral determinants
+  - Sexual Health
+  - Vaccination Decisions
+  - LGTBQ+
 image:
   filename: ""
   focal_point: Smart
