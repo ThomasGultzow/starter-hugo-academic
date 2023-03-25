@@ -23,10 +23,10 @@ content:
     category: ''
     publication_type: ''
     tag: ''
+    featured_only: true
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  featured_only: true
-
+  
 design:
   # Choose a view for the listings:
   #   1 = List
