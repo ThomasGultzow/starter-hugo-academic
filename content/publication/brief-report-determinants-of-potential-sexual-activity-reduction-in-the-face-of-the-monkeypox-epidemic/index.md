@@ -28,9 +28,10 @@ abstract: The current monkeypox epidemic is most prevalent among
 draft: false
 featured: false
 tags:
-  - mpox
-  - sexual-health
-  - psychosocial-determinants
+  - Mpox
+  - Sexual Health
+  - Behavioral determinants
+  - LGTBQ+
 image:
   filename: featured
   focal_point: Smart
