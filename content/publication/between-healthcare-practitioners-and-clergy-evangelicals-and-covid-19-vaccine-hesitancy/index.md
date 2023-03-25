@@ -40,8 +40,8 @@ draft: false
 featured: false
 tags:
   - COVID-19
-  - psychosocial-determinants
-  - vaccination-decisions
+  - Behavioral Determinants
+  - Vaccination Decisions
 image:
   filename: ""
   focal_point: Smart
