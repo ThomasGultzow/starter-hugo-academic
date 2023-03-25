@@ -34,7 +34,7 @@ draft: false
 featured: false
 tags:
   - COVID-19
-  - vaccination-decisions
+  - Vaccination Decisions
 image:
   filename: ""
   focal_point: Smart
