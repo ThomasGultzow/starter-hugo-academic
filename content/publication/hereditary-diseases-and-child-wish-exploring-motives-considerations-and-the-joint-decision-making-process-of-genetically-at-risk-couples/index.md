@@ -35,8 +35,8 @@ abstract: Couples who are at risk of transmitting a genetic disease to their
 draft: false
 featured: false
 tags:
-  - decision-making
-  - genetic-counseling
+  - Informed Decision Making
+  - Genetic Counseling
 image:
   filename: ""
   focal_point: Smart
