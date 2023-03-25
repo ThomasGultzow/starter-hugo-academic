@@ -38,7 +38,7 @@ education:
       institution: Maastricht University
       year: 2017
     - course: Bachelor of Science in Nursing
-      institution: Catholic University of Applied Sciences of North Rhine
+      institution: Catholic University of Applied Sciences of North Rhine-Westphalia
       year: 2014
 superuser: true
 status:
