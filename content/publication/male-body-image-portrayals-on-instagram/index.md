@@ -30,9 +30,9 @@ abstract: Men are faced with trends that give rise to the desire for a muscular
 draft: false
 featured: true
 tags:
-  - body-image
-  - social-media
-  - digital-health
+  - Body Image
+  - Social Media
+  - Digital Health
 image:
   filename: ""
   focal_point: Smart
