@@ -11,7 +11,6 @@ main:
     url: '#featured'
     weight: 20
   - name: Interests
-    url: 'tags'
     weight: 40
   
 # Link to a PDF of your resume/CV from the menu.
