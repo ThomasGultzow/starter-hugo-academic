@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
-  - name: Interests
+  - name: Research Topics
     url: '#tags'
     weight: 40
   
