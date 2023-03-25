@@ -36,9 +36,9 @@ abstract: "Evidence-based cessation assistance increases cessation rates.
 draft: false
 featured: false
 tags:
-  - smoking
-  - decision-making
-  - decision-aid
+  - Smoking
+  - Informed Decision Making
+  - Decision Aid(s)
 image:
   filename: ""
   focal_point: Smart
