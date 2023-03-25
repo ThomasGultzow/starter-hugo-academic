@@ -1,4 +1,4 @@
-widget: featured
+widget: markdown
 
 # Activate this widget? true/false
 active: true
