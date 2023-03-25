@@ -36,9 +36,9 @@ abstract: Having intrinsic or self-determined motivation in contrast to
 draft: false
 featured: false
 tags:
-  - digital-health
-  - sexual-health
-  - autonomy
+  - Digital Health
+  - Sexual Health
+  - Autonomy
 image:
   filename: ""
   focal_point: Smart
