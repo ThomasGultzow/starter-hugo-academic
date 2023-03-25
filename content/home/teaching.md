@@ -1,4 +1,4 @@
-widget: markdown
+widget: pages
 
 # Activate this widget? true/false
 active: true
