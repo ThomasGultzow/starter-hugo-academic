@@ -1,3 +1,5 @@
+widget: featured
+
 # Activate this widget? true/false
 active: true
 
