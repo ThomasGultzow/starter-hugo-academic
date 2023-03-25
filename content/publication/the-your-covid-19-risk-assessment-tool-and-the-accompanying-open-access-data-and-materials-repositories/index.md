@@ -77,7 +77,7 @@ abstract: In March 2020, the Your COVID-19 Risk tool was developed in response
 draft: false
 featured: false
 tags:
-  - digital-health
+  - Digital Health
   - COVID-19
 image:
   filename: ""
