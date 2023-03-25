@@ -42,8 +42,9 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - decision-making
-  - decision-aid
+  - Informed Decision Making
+  - Decision Aid(s)
+  - Behavior Change
 image:
   filename: ""
   focal_point: Smart
