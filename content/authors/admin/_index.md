@@ -1,5 +1,5 @@
 ---
-title: Thomas Gültzow, PhD
+title: Thomas Gültzow
 role: Assistant Professor Social Psychology
 avatar_filename: avatar.png
 bio: My research focuses on applying informed decision making to health
