@@ -22,7 +22,7 @@ draft: false
 featured: true
 tags:
   - Open Science
-  - Onclusivity
+  - Inclusivity
   - Diversity
 image:
   filename: ""
