@@ -25,6 +25,7 @@ content:
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  featured_only: true
 
 design:
   # Choose a view for the listings:
