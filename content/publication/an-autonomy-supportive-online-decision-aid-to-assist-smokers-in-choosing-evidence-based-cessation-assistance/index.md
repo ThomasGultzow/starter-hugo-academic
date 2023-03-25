@@ -51,10 +51,10 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - smoking
-  - decision-making
-  - decision-aid
-  - digital-health
+  - Smoking
+  - Informed Decision Making
+  - Decision Aid(s)
+  - Digital Health
 image:
   filename: ""
   focal_point: Smart
