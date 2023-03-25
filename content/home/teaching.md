@@ -1,7 +1,7 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# Activate this widget? true/false
-active: true
 
 # This file represents a page section.
 headless: true
@@ -9,10 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
+title: 'Teaching'
+# subtitle:
+
 content:
-      title: Teaching
-      text: 
-      
+  # Page type to display. E.g. post, event, publication...
+  page_type: post
+  
 I am currently supervising several master's students in health and social psychology on topics at the intersection of sexual health and decision making. I also have (among other things) teaching experience in:
 
 - Development, implementation and evaluation of (behavior change) interventions
@@ -23,5 +26,5 @@ I am currently supervising several master's students in health and social psycho
 - Anxiety disorders
 
 In 2021 I obtained my Basiskwalificatie Onderwijs (BKO) / University Teaching Qualification (UTQ).
-
+  
 ---
