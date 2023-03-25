@@ -21,9 +21,9 @@ abstract: (Pre)registrations may be useful to make psychological research both
 draft: false
 featured: true
 tags:
-  - open-science
-  - inclusivity
-  - diversity
+  - Open Science
+  - Onclusivity
+  - Diversity
 image:
   filename: ""
   focal_point: Smart
