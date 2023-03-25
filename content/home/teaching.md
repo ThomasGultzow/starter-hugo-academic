@@ -16,7 +16,8 @@ content:
   # Page type to display. E.g. post, event, publication...
   page_type: post
   
-text:
+---
+
 
 I am currently supervising several master's students in health and social psychology on topics at the intersection of sexual health and decision making. I also have (among other things) teaching experience in:
 
@@ -28,5 +29,3 @@ I am currently supervising several master's students in health and social psycho
 - Anxiety disorders
 
 In 2021 I obtained my Basiskwalificatie Onderwijs (BKO) / University Teaching Qualification (UTQ).
-  
----
