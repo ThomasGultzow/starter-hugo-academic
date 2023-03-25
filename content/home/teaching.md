@@ -28,4 +28,4 @@ I am currently supervising several master's students in health and social psycho
 - Research methods
 - Anxiety disorders
 
-In 2021 I obtained my Basiskwalificatie Onderwijs (BKO) / Dutch University Teaching Qualification (UTQ).
+In 2021, I obtained my Basiskwalificatie Onderwijs (BKO) / Dutch University Teaching Qualification (UTQ).
