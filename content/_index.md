@@ -39,7 +39,7 @@ sections:
           date_end: '2021-12-31'
           description: When Informed Decision Making Meets Health Promotion – An integration of both areas based on the example of smoking cessation
         - title: Paediatric Nurse
-          company: Various hospitals and outpatient care services, including Clinics of Cologne (Kinderkrankenhaus Amsterdamer Straße
+          company: Various hospitals and outpatient care services, including Clinics of Cologne (Kinderkrankenhaus Amsterdamer Straße)
           location: Germany
           date_start: '2010-10-01'
           date_end: '2017-09-30'
