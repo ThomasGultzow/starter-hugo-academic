@@ -33,9 +33,9 @@ draft: false
 featured: false
 tags:
   - Nutrition
-  - decision-making
-  - deliberation
-  - intuition
+  - Deliberation
+  - Intuition
+  - Behavioral Determinants
 image:
   filename: ""
   focal_point: Smart
