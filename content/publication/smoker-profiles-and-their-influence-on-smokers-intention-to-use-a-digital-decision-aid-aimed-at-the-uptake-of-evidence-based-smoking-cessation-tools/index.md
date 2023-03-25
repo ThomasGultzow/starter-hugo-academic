@@ -41,11 +41,11 @@ draft: false
 featured: false
 tags:
   - Smoking
-  - decision-making
-  - intuition
-  - deliberation
-  - decision-aid
-  - digital-health
+  - Informed Decision Making
+  - Intuition
+  - Deliberation
+  - Decision Aid(s)
+  - Digital Health
 image:
   filename: ""
   focal_point: Smart
