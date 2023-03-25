@@ -35,9 +35,9 @@ abstract: "People make numerous health-related choices each day: For example,
 draft: false
 featured: true
 tags:
-  - decision-aid
-  - decision-making
-  - behavior-change
+  - Decision Aid(s)
+  - Informed Decision Making
+  - Behavior Change
 image:
   filename: ""
   focal_point: Smart
