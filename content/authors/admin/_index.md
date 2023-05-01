@@ -1,6 +1,6 @@
 ---
 title: Thomas Gültzow
-role: Assistant Professor Social Psychology
+role: Assistant Professor Societal Transition & Behaviour Change
 avatar_filename: avatar.png
 bio: My research focuses on applying informed decision making to health
   behaviors (e.g., sexual and mental health) and behaviors related to societal
@@ -48,8 +48,8 @@ highlight_name: true
 first_name: Thomas
 ---
 
-I am a social scientist focusing on applying informed decision making to health behaviors (e.g., sexual and mental health) and behaviors related to societal issues (e.g., climate change). My research mainly focuses on understanding how informed decision making relates to behavior (change) and optimizing digital decision aids. In addition, I also research how online and offline communication can influence (informed) decision-making processes and behavior and I have expertise in developing digital decision aids. With my research I try to help people when it comes to issues related to their health, but also other societal issues.
+I am a researcher in the field of (health) behaviour and I am passionate about empowering people to make informed decisions about their health, well-being, and societal issues. My expertise lies in understanding how informed decision making influences behaviour and optimising (digital) tools to support both informed decision making as well as autonomous behaviour change. I also research how communication – both online and offline – influences decision-making processes and behaviour. As an advocate of transparency and trust in science, I strive to make research accessible and useful. In addition, I am an experienced teacher. From being a tutor to coordinating courses, I've helped students develop skills that go beyond the classroom.
 
-I am also currently the co-chair of the [Digital Health & Computer-Tailoring Special Interest Group (SIG)](https://twitter.com/EHPSDigiHealth)👨‍💻 of the [European Health Psychology Society (EHPS)](https://ehps.net/).
+Before I started working as a researcher, I worked as a paediatric nurse in Germany.
 
-Soon ➡️ Assistant Professor in Societal Transition and Behaviour Change [at] the [Open University of the Netherlands](https://www.ou.nl/en/)
+I am also currently the co-chair of the [Digital Health & Computer-Tailoring Special Interest Group (SIG)](https://ehps.net/digital-health-and-computer-tailoring/)👨‍💻 of the [European Health Psychology Society (EHPS)](https://ehps.net/).
