@@ -27,8 +27,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/thomasgultzow/
 organizations:
-  - name: Maastricht University
-    url: www.maastrichtuniversity.nl
+  - name: Open University (NL)
+    url: https://www.ou.nl/en/
 education:
   courses:
     - course: PhD in Health Promotion
