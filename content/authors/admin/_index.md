@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/thomasgultzow/
 organizations:
-  - name: Open University (NL)
+  - name: Open University 🇳🇱
     url: https://www.ou.nl/en/
 education:
   courses:
