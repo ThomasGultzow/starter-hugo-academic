@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Hanne M. L. Zimmermann
   - admin
-  - Tamika Marcos
+  - Tamika A. Marcos
   - Haoyi Wang
   - Kai J. Jonas
   - Sarah E. Stutterheim
