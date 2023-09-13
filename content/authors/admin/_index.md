@@ -11,7 +11,8 @@ interests:
   - Health Promotion
   - Health Communication
   - Digital Health
-  - Diversity & inclusion with a focus on inclusive research
+  - Diversity & inclusion
+  - Inclusive research (methods)
 social:
   - icon: envelope
     icon_pack: fas
