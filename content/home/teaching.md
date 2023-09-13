@@ -19,7 +19,7 @@ content:
 ---
 
 
-Currently I am co-examiner of a course focused on qualitative research and review reports within other method-focused courses. Next to that, I am currently supervising several master's students in health and social psychology on topics at the intersection of sexual health and decision making. I also have (among other things) teaching experience in:
+Currently I am co-examiner of a course focused on qualitative research and review reports within other method-focused courses. I also have (among other things) teaching experience in:
 
 - Development, implementation, and evaluation of (behavior change) interventions
 - Health promotion
@@ -27,5 +27,6 @@ Currently I am co-examiner of a course focused on qualitative research and revie
 - Self-regulation
 - Research methods
 - Anxiety disorders
+- Thesis supervision
 
 In 2021, I obtained my Basiskwalificatie Onderwijs (BKO) / Dutch University Teaching Qualification (UTQ).
