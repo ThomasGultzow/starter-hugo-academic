@@ -9,7 +9,7 @@ authors:
   - Alessandra Gorini
   - Marijn H.C. Meijers
   - Eline S. Smit
-  - author
+  - I
 doi: https://doi.org/10.31234/osf.io/rhzjp
 publication: PsyArXiv
 abstract: As research highlights the impact that climate change has on
