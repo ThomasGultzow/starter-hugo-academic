@@ -54,4 +54,4 @@ I am a researcher in the field of (health) behaviour and I am passionate about e
 
 Before I started working as a researcher, I worked as a paediatric nurse in Germany.
 
-I am also currently the chair of the [Digital Health & Computer-Tailoring Special Interest Group (SIG)](https://ehps.net/digital-health-and-computer-tailoring/)👨‍💻 of the [European Health Psychology Society (EHPS)](https://ehps.net/).
+I am also currently the chair of the [Digital Health & Computer-Tailoring Special Interest Group (SIG)](https://ehps.net/digital-health-and-computer-tailoring/)👨‍💻 of the [European Health Psychology Society (EHPS)](https://ehps.net/) and editor-in-chief of the [European Health Psychologist](https://www.ehps.net/ehp/index.php/contents/index) 📰
