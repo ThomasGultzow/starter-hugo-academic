@@ -33,7 +33,7 @@ abstract: Mental health disclosure decisions can be difficult, especially within
   serve as a valuable tool to assist them in making informed decisions and
   preparing for potential conversations related to mental health disclosure.
 draft: false
-featured: false
+featured: true
 tags:
   - Decision Aid(s)
   - Digital Health
