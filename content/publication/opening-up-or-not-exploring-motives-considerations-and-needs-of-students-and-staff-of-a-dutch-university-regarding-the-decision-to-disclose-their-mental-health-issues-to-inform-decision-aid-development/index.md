@@ -3,7 +3,6 @@ title: Opening up or not? Exploring motives, considerations and needs of
   students and staff of a Dutch university regarding the decision to disclose
   their mental health issues to inform decision aid development
 publication_types:
-  - "0"
   - "3"
 authors:
   - Yil Severijns
