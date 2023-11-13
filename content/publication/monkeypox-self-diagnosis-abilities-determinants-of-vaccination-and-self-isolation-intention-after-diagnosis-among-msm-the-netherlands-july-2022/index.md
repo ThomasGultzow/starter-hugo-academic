@@ -20,7 +20,7 @@ abstract: Monkeypox is a zoonotic disease and leads to a smallpox-like disease
   44% to self-isolate after monkeypox diagnosis. Determinants went beyond mere
   risk behaviour criteria.
 draft: false
-featured: true
+featured: false
 tags:
   - Mpox
   - Behavioral determinants
