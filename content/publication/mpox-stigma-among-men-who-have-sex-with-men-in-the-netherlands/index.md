@@ -12,7 +12,7 @@ authors:
   - Kai J. Jonas
   - Sarah E. Stutterheim
 doi: https://doi.org/10.22541/au.168416105.51748559/v1
-publication: Authorea
+publication: Journal of Medical Virology
 abstract: People with mpox are likely to be stigmatized because of analogies to
   other sexually transmitted infections. Stigma is driven by beliefs about the
   perceived severity of the condition and perceived responsibility for acquiring
@@ -42,5 +42,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-05-15T09:10:01.704Z
+date: 2023-09-26T09:10:01.704Z
 ---
