@@ -2,8 +2,7 @@
 title: Mpox stigma among men who have sex with men in the Netherlands
 subtitle: Underlying beliefs and comparisons across other commonly stigmatized infections
 publication_types:
-  - "0"
-  - "3"
+  - "2"
 authors:
   - Hanne M. L. Zimmermann
   - admin
