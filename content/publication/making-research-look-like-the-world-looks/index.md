@@ -3,13 +3,14 @@ title: Making Research Look Like the World Looks
 subtitle: Introducing the 'Inclusivity & Diversity Add-On for Preregistration
   Forms' Developed During an EHPS2022 Pre-Conference Workshop
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Efrat Neter
   - Hanne M. L. Zimmermann
-doi: https://doi.org/10.31219/osf.io/r2e7a
+doi: https://ehps.net/ehp/index.php/contents/article/view/3436/1329
 publication: OSF Preprints
+publication_short: The European Health Psychologist
 abstract: (Pre)registrations may be useful to make psychological research both
   more diverse and more inclusive. However, to our knowledge there was no
   (pre)registration form available until now that focused on diversity and
@@ -28,5 +29,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-03-20T19:38:54.398Z
+date: 2023-11-16T17:02:57.846Z
 ---
