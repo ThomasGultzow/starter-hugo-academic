@@ -38,7 +38,7 @@ tags:
   - Sexual Health
   - LGTBQ+
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2023-09-26T09:10:01.704Z
