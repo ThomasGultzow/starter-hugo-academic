@@ -8,9 +8,9 @@ authors:
   - admin
   - Efrat Neter
   - Hanne M. L. Zimmermann
-doi: https://ehps.net/ehp/index.php/contents/article/view/3436/1329
-publication: OSF Preprints
-publication_short: The European Health Psychologist
+doi: https://doi.org/10.31219/osf.io/r2e7a
+publication: The European Health Psychologist
+publication_short: ""
 abstract: (Pre)registrations may be useful to make psychological research both
   more diverse and more inclusive. However, to our knowledge there was no
   (pre)registration form available until now that focused on diversity and
