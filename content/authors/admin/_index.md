@@ -6,8 +6,9 @@ bio: My research focuses on applying informed decision making to health
   behaviors (e.g., sexual and mental health) and behaviors related to societal
   issues (e.g., climate change and mental health in the university setting).
 interests:
-  - Decision Aids
   - Informed Decision Making
+  - Behaviour Change
+  - Decision aids
   - Health Promotion
   - Health Communication
   - Digital Health
