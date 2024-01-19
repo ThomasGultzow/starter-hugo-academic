@@ -2,15 +2,15 @@
 title: "Brief report: Determinants of potential sexual activity reduction in the
   face of the Monkeypox epidemic"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Haoyi Wang
   - Kennedy J. I. D’abreu de Paulo
   - admin
   - Hanne M. L. Zimmermann
   - Kai J. Jonas
-doi: https://doi.org/10.1101/2022.08.01.22278287
-publication: medRxiv
+doi: https://doi.org/10.1007/s12529-023-10252-4
+publication: "International Journal of Behavioral Medicine "
 abstract: The current monkeypox epidemic is most prevalent among
   men-who-have-sex-with-men (MSM). Vaccination programs are being rolled-out to
   curb the epidemic. Behavioural measures have been called for as well, e.g., by
@@ -36,5 +36,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-08-03T19:00:37.110Z
+date: 2023-01-17T20:00:37.110Z
 ---
