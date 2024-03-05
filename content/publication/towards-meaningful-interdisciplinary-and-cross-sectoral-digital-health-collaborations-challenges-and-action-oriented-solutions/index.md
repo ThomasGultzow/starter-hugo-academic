@@ -4,7 +4,7 @@ title: "Towards meaningful interdisciplinary and cross-sectoral digital health
 publication_types:
   - "3"
 authors:
-  - Laura M König
+  - Laura M. König
   - Anila Allmeta
   - Olga Perski
   - Eline Suzanne Smit
@@ -23,7 +23,7 @@ authors:
   - Thomas McLaren
   - Dorothy Szinay
   - Carmen Peuters
-  - and Ann DeSmet
+  - Ann DeSmet
 doi: https://doi.org/10.31219/osf.io/d9zx7
 publication: OSF Preprints
 abstract: The development, evaluation, and implementation of digital health
