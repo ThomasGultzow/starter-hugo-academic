@@ -23,7 +23,7 @@ Currently I am co-examiner of courses focused on qualitative research and health
 
 - Development, implementation, and evaluation of (behaviour change) interventions
 - Health promotion
-- Behavior (change) theories
+- Behaviour (change) theories
 - Self-regulation
 - Research methods
 - Anxiety disorders
