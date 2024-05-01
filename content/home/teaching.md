@@ -19,9 +19,9 @@ content:
 ---
 
 
-Currently I am co-examiner of a course focused on qualitative research and review reports within other method-focused courses. I also have (among other things) teaching experience in:
+Currently I am co-examiner of courses focused on qualitative research and health psychology, review reports within other method-focused courses and develop a course focused on behaviour and climate change. I also have (among other things) teaching experience in:
 
-- Development, implementation, and evaluation of (behavior change) interventions
+- Development, implementation, and evaluation of (behaviour change) interventions
 - Health promotion
 - Behavior (change) theories
 - Self-regulation
