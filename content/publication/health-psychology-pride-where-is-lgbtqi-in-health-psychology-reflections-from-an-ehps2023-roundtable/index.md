@@ -1,6 +1,6 @@
 ---
 title: Health Psychology & Pride! Where is LGBTQI+ in health psychology?
-  Reflections from an EHPS2023 roundtable
+subtitle: Reflections from an EHPS2023 roundtable
 publication_types:
   - "3"
 authors:
