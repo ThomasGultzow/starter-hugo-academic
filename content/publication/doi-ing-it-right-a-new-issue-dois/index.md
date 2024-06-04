@@ -10,6 +10,8 @@ doi: https://doi.org/10.62696/ehp.v23i2.3445
 publication: European Health Psychologist
 draft: false
 featured: false
+tags:
+  - Editorial
 image:
   filename: ""
   focal_point: Smart
