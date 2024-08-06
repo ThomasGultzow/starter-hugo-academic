@@ -10,7 +10,7 @@ authors:
   - Chris Noone
   - Siobhan Thomas
   - and Udi Davidovich
-doi: https://doi.org/10.31234/osf.io/4u3mt
+doi: https://doi.org/10.62696/ehp.v23i3.3460
 publication: European Health Psychologist
 abstract: "People who are lesbian, gay, bisexual, transgender, questioning, and
   people who hold other marginalised sexual or gender identities (LGBTQI+) often
