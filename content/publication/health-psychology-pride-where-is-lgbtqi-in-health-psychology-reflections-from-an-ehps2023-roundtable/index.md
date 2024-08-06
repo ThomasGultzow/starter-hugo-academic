@@ -2,7 +2,7 @@
 title: Health Psychology & Pride! Where is LGBTQI+ in health psychology?
 subtitle: Reflections from an EHPS2023 roundtable
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Neil Coulson
@@ -11,7 +11,7 @@ authors:
   - Siobhan Thomas
   - and Udi Davidovich
 doi: https://doi.org/10.31234/osf.io/4u3mt
-publication: PsyArXiv
+publication: European Health Psychologist
 abstract: "People who are lesbian, gay, bisexual, transgender, questioning, and
   people who hold other marginalised sexual or gender identities (LGBTQI+) often
   experience notable health disparities. These disparities arise due to a
@@ -43,5 +43,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-11-08T22:18:11.728Z
+date: 2024-07-27T21:18:11.728Z
 ---
