@@ -42,5 +42,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2024-10-07T07:28:26.840Z
+date: 2024-10-07T08:16:49.070Z
 ---
