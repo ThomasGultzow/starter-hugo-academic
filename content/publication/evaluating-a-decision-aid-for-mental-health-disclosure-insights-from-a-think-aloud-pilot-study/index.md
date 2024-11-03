@@ -29,7 +29,7 @@ abstract: Decisions around mental health disclosure are often complex,
   controlled trial) to ensure the tool effectively addresses the diverse needs
   of users.
 draft: false
-featured: false
+featured: true
 tags:
   - Decision Aid(s)
   - Digital Health
