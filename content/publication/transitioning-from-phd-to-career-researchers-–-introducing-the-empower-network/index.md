@@ -9,6 +9,10 @@ authors:
   - Tugce Varol
 doi: https://doi.org/10.31234/osf.io/bqhkm
 publication: PsyArXiv
+abstract: Introducing EMPOWER, the European network for postdoctoral early
+  career & Mid-career researchers in health PsychOlogy focusing on Well-being &
+  Empowerment of Researchers, the newest of the European Health Psychology
+  Society’s networks.
 draft: false
 featured: false
 image:
