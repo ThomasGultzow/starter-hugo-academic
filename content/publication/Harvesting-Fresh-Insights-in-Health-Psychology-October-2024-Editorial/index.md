@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Filipa Teixeira
-doi: [https://doi.org/10.62696/ehp.v23i2.3445](https://doi.org/10.62696/6fj8cn71)
+doi: https://doi.org/10.62696/ehp.v23i2.3445](https://doi.org/10.62696/6fj8cn71
 publication: European Health Psychologist
 draft: false
 featured: false
